@@ -1,7 +1,7 @@
 //=========================================================
 // Import NPM modules
 //=========================================================
-const express = require("express");
+const express = require("Express");
 const actionsOnGoogleAdapter = require("bot-framework-actions-on-google");
 
 const app = express();
